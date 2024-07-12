@@ -1,4 +1,4 @@
-![logo](https://github.com/akankshad1712/akankshad1712/blob/main/Hello%2C%20my%20name%20is%20Akanksha..png)
+![logo](https://github.com/akankshad1712/akankshad1712/blob/main/Hello%2C%20my%20name%20is%20Akanksha.%201111111111111111111.png)
 
 <h1 align="center">Hi 👋, I'm Akanksha Deshmukh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
