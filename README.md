@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshad1712&label=Profile%20views&color=0e75b6&style=flat" alt="akankshad1712" /> </p>
 
-- 🌱 I’m currently learning **Full stack developer**
-
 - 👨‍💻 All of my projects are available at [https://github.com/akankshad1712](https://github.com/akankshad1712)
 
 - 💬 Ask me about **Java, React, python**
@@ -32,19 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akankshad1712&show_icons=true&locale=en" alt="akankshad1712" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akankshad1712&" alt="akankshad1712" /></p>
-
-
-<!--
-**akankshad1712/akankshad1712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
