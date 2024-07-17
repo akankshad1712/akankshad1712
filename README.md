@@ -1,15 +1,15 @@
 ![logo](https://github.com/akankshad1712/akankshad1712/blob/main/Hello%2C%20my%20name%20is%20Akanksha.%201111111111111111111.png)
 
-<h1 align="center">Hi 👋, I'm Akanksha Deshmukh</h1>
+<h1 align="center">Hi 👋, I'm Akanksha Narsingrao Deshmukh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-
-<img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshad1712&label=Profile%20views&color=0e75b6&style=flat" alt="akankshad1712" /> </p>
 
+- 🌱 I’m currently learning **DSA, React**
+
 - 👨‍💻 All of my projects are available at [https://github.com/akankshad1712](https://github.com/akankshad1712)
 
-- 💬 Ask me about **Java, React, python**
+- 💬 Ask me about **c, Java, HTML, CSS, JS, SQL, Python**
 
 - 📫 How to reach me **akankshadeshmukh308@gmail.com**
 
@@ -18,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akanksha-deshmukh-26210b244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akanksha-deshmukh-26210b244/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/akanksha_deshmukh123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/akanksha_deshmukh123/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/akanksha_deshmukh123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/akanksha_deshmukh123/" height="30" width="40" /></a>
 </p>
 
@@ -30,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akankshad1712&show_icons=true&locale=en" alt="akankshad1712" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akankshad1712&" alt="akankshad1712" /></p>
+
