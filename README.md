@@ -12,6 +12,7 @@
 - 💬 Ask me about **c, Java, HTML, CSS, JS, SQL, Python**
 
 - 📫 How to reach me **akankshadeshmukh308@gmail.com**
+- 📄 Know about my experiences [https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto)
 
 - ⚡ Fun fact **I am funny😅**
 
