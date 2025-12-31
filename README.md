@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Akanksha Deshmukh
-### Software Engineer | Full-Stack Developer | AI/ML Enthusiast 
+### Software Engineer | Full-Stack Developer | AI/ML Enthusiast
 
 ---
 
