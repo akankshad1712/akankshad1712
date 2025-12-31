@@ -29,4 +29,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=akankshad1712&icon=9&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->                    FULL GIVE ME I COPY PAGES AND CURRENT GIVE ME 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->                   
