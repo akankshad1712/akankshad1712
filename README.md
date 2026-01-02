@@ -1,8 +1,7 @@
 # 💫 Hi 👋, I'm Akanksha Deshmukh  
 **A passionate Software Engineer || AI Engineer || Data Science Enthusiast from India 🇮🇳**
 
-Email Me 👉 ✉️ **akankshadeshmukh651@gmail.com**  
-For Collaboration, Projects, or Opportunities 😊😊
+
 ---
 
 -# 💫 About Me:
