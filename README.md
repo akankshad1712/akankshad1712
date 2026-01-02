@@ -1,3 +1,12 @@
+# 💫 Hi 👋, I'm Akanksha Deshmukh  
+**A passionate Software Engineer || AI Engineer || Data Science Enthusiast from India 🇮🇳**
+
+Email Me 👉 ✉️ **akankshadeshmukh651@gmail.com**  
+For Collaboration, Projects, or Opportunities 😊😊
+
+---
+
+
 # 💫 About Me:
 - 🔭 **I’m currently working on:** Full-stack projects and problem-solving using DSA  <br>- 🌱 **I’m currently learning:** Advanced JavaScript, Python, backend development, and system design basics  <br>- 👯 **I’m looking to collaborate on:** Web applications, open-source projects, and DSA practice  <br>- 🤔 **I’m looking for help with:** Scalable backend architecture and real-world project exposure  <br>- 💬 **Ask me about:** JavaScript, Python, DSA, and coding interview preparation  <br>- 📫 **How to reach me:** your.email@example.com  <br>- 😄 **Pronouns:** She/Her (update if needed)  <br>- ⚡ **Fun fact:** I enjoy solving DSA problems more than scrolling social media 😄<br>
 
