@@ -1,13 +1,6 @@
 # 💫 Hi 👋, I'm Akanksha Deshmukh  
 **A passionate Software Engineer | Full-Stack Developer | AI & Data Science Enthusiast from India 🇮🇳**
 
-Email Me 👉 ✉️ **akankshadeshmukh651@gmail.com**  
-For Collaboration, Projects, or Opportunities 😊😊
-
----
-
-
-# 💫 About Me:
 - 🔭 **I’m currently working on:** Full-stack web applications using React, Django, and MongoDB <br>- 🌱 **I’m currently learning:** Advanced JavaScript, Python, backend development, and system design basics  <br>- 👯 **I’m looking to collaborate on:** Web applications, open-source projects, and DSA practice  <br>- 🤔 **I’m looking for help with:** Scalable backend architecture and real-world project exposure  <br>- 💬 **Ask me about:** JavaScript, Python, DSA, and coding interview preparation  <br>- 📫 **How to reach me:** akankshadeshmukh651@gmail.com    <br>- 😄 **Pronouns:** She/Her   <br>- ⚡ **Fun fact:** I enjoy solving DSA problems more than scrolling social media 😄<br>
 
 
