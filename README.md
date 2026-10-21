@@ -1,78 +1,36 @@
-
-<!-- =========================================================
-     PREMIUM GITHUB PROFILE | SOFTWARE ENGINEERING + AI
-     Dark editorial design • Violet • Electric blue • White
-========================================================== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080B16,45:171A35,100:33205B&height=220&section=header&text=AKANKSHA%20DESHMUKH&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=SOFTWARE%20ENGINEERING%20%7C%20ARTIFICIAL%20INTELLIGENCE&descSize=13&descAlignY=62&descColor=C9C5FF" alt="Akanksha Deshmukh — Software Engineering and AI"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080B16,40:191936,75:34245D,100:174A75&height=230&section=header&text=AKANKSHA%20DESHMUKH&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20BACKEND%20%7C%20ARTIFICIAL%20INTELLIGENCE&descSize=13&descAlignY=60&descColor=C9C5FF" alt="Akanksha Deshmukh — Software Engineering and AI"/>
 
 <br/>
 
-<a href="https://github.com/akankshad1712">
-<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-</a>
-<a href="https://www.linkedin.com/in/akanksha-deshmukh-26210b244/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:akankshadeshmukh308@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-302653?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
+<a href="https://github.com/akankshad1712"><img src="https://img.shields.io/badge/GitHub-Portfolio-181B2B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/akanksha-deshmukh-26210b244/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:akankshadeshmukh308@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6C54A3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 ### Building reliable software. Exploring intelligent systems.
 
-Software Engineer interested in backend development, Generative AI, AI agents, APIs, and software quality.
-
-<br/>
-
-[Profile](#01--about-me) · [Projects](#02--featured-projects) · [Skills](#03--technical-toolkit) · [GitHub](#04--github-activity) · [Contact](#06--connect)
+**Backend Engineering · Java · Python · Generative AI · REST APIs**
 
 </div>
 
 ---
 
-## 01 / ABOUT ME
+## 01 — PROFILE
 
-<table>
-<tr>
-<td width="65%" valign="top">
+Software Engineer interested in building practical software, intelligent applications, and reliable backend systems.
 
-### Engineering with purpose.
+- **Software Engineering:** Backend development, API design, testing, and debugging
+- **Artificial Intelligence:** Generative AI, LLM applications, and AI agent workflows
+- **Programming:** Java, Python, JavaScript, C, C++, and SQL
+- **Engineering Practices:** Clean code, problem-solving, software quality, and open-source development
+- **Areas of Interest:** Backend Engineering, AI Engineering, Full-Stack Development, and Developer Tools
 
-I enjoy solving engineering problems and building software that is practical, maintainable, and reliable.
+I enjoy transforming ideas into working applications while continuously strengthening my engineering fundamentals through implementation, experimentation, and testing.
 
-My interests include backend systems, AI-powered applications, API development, automated testing, and open-source engineering. I value clean code, evidence-based debugging, thoughtful design, and continuous improvement.
+---
 
-I am looking to contribute to engineering teams where I can solve meaningful problems, collaborate with developers, and continue growing as a software engineer.
-
-</td>
-<td width="35%" valign="top">
-
-### CURRENT FOCUS
-
-- Artificial Intelligence
-- Backend Engineering
-- AI Agent Workflows
-- REST API Development
-- Software Testing
-- Open-Source Projects
-
-</td>
-</tr>
-</table>
-
-
-
-## 02 / FEATURED PROJECTS
-
-<div align="center">
-
-
-
-</div>
+## 02 — FEATURED PROJECTS
 
 <table>
 <tr>
@@ -82,15 +40,19 @@ I am looking to contribute to engineering teams where I can solve meaningful pro
 
 **Agentic Incident Investigation Platform**
 
-An evidence-first incident investigation application designed to help analyse logs, track investigation activity, and demonstrate approval-controlled recovery actions.
+An evidence-first incident investigation project focused on application reliability, incident APIs, and approval-controlled simulated recovery workflows.
 
-**Technology**
+- Incident management APIs
+- Evidence-driven investigation
+- Simulated recovery actions
+- Automated tests and rate limiting
+- Environment-based configuration
 
-`Python` `FastAPI` `AI Agents` `REST APIs` `Docker` `Pytest`
+**Tech stack**
 
-<a href="https://github.com/akankshad1712/aegis-ai">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B7CFF?style=for-the-badge&logo=github&logoColor=white" alt="View AEGIS AI"/>
-</a>
+`Python` `FastAPI` `Pytest` `Docker` `REST APIs`
+
+<a href="https://github.com/akankshad1712/aegis-ai"><img src="https://img.shields.io/badge/VIEW%20PROJECT-8B7CFF?style=for-the-badge&logo=github&logoColor=white" alt="AEGIS AI repository"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -99,15 +61,19 @@ An evidence-first incident investigation application designed to help analyse lo
 
 **Premium Full-Stack Commerce Platform**
 
-A fashion commerce project combining a modern storefront concept with backend services, authentication, and relational data management.
+A premium lifestyle-commerce project combining modern web development with backend services, authentication, and relational data management.
 
-**Technology**
+- Modern frontend architecture
+- Java and Spring Boot backend
+- JWT authentication
+- PostgreSQL data persistence
+- Containerization fundamentals
 
-`Next.js` `React` `Java` `Spring Boot` `PostgreSQL` `JWT`
+**Tech stack**
 
-<a href="https://github.com/akankshad1712/ANVYRA">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B7CFF?style=for-the-badge&logo=github&logoColor=white" alt="View ANVYRA"/>
-</a>
+`Next.js` `React` `Java` `Spring Boot` `PostgreSQL`
+
+<a href="https://github.com/akankshad1712/ANVYRA"><img src="https://img.shields.io/badge/VIEW%20PROJECT-8B7CFF?style=for-the-badge&logo=github&logoColor=white" alt="ANVYRA repository"/></a>
 
 </td>
 </tr>
@@ -116,17 +82,20 @@ A fashion commerce project combining a modern storefront concept with backend se
 
 ### 03. AIONIC MusicApp
 
-**AI-Powered Music Application**
+**Music Application Development**
 
-A music-focused application built with Django, exploring backend development, web application functionality, and music-related features.
+A music-focused application exploring Python web development, backend functionality, and database integration.
 
-**Technology**
+- Django application development
+- Music-related application workflows
+- Backend functionality
+- Data integration
 
-`Python` `Django` `REST APIs` `Database Integration`
+**Tech stack**
 
-<a href="https://github.com/akankshad1712/AIONIC-MusicApp">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B7CFF?style=for-the-badge&logo=github&logoColor=white" alt="View AIONIC MusicApp"/>
-</a>
+`Python` `Django` `Web Development`
+
+<a href="https://github.com/akankshad1712/AIONIC-MusicApp"><img src="https://img.shields.io/badge/VIEW%20PROJECT-8B7CFF?style=for-the-badge&logo=github&logoColor=white" alt="AIONIC MusicApp repository"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -135,81 +104,112 @@ A music-focused application built with Django, exploring backend development, we
 
 **AI-Powered Travel Planning**
 
-A web application that generates personalised trip itineraries using AI and a responsive interface.
+A travel-planning application designed to generate personalized itineraries using AI and a responsive web interface.
 
-**Technology**
+- AI-powered itinerary generation
+- Firebase authentication
+- Realtime database integration
+- Responsive user interface
 
-`React` `Firebase` `Tailwind CSS` `Gemini AI`
+**Tech stack**
 
-<a href="https://github.com/akankshad1712/ai-trip-planner-react">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B7CFF?style=for-the-badge&logo=github&logoColor=white" alt="View AI Trip Planner"/>
-</a>
+`React` `Gemini AI` `Firebase` `Tailwind CSS`
+
+<a href="https://github.com/akankshad1712/ai-trip-planner-react"><img src="https://img.shields.io/badge/VIEW%20PROJECT-8B7CFF?style=for-the-badge&logo=github&logoColor=white" alt="AI Trip Planner repository"/></a>
 
 </td>
 </tr>
 </table>
 
----
-
-## 03 / TECHNICAL TOOLKIT
-
 <div align="center">
 
-### PROGRAMMING LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,go,js,ts,sql&theme=dark" alt="Programming language icons"/>
-
-### BACKEND & WEB DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=spring,django,fastapi,react,nextjs,html,css&theme=dark" alt="Backend and web development icons"/>
-
-### DATABASES
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase&theme=dark" alt="Database technology icons"/>
-
-### CLOUD, DEVOPS & TOOLS
-
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,githubactions,vscode&theme=dark" alt="Cloud and developer tools icons"/>
+<a href="https://github.com/akankshad1712?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-171A2B?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/></a>
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### AI & APPLICATIONS
+## 03 — TECHNICAL TOOLKIT
+
+### Programming languages
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&theme=dark" alt="Java Python C C++ JavaScript TypeScript"/>
+</div>
+
+### Backend and web development
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=spring,django,fastapi,nodejs,react,nextjs,html,css&theme=dark" alt="Backend and web development technologies"/>
+</div>
+
+- **Backend:** Spring Boot, FastAPI, Django, REST APIs, microservices fundamentals
+- **Application development:** Backend services, API integration, frontend/backend communication
+- **Web technologies:** React, Next.js, HTML, CSS, JavaScript
+
+### Artificial intelligence
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" alt="AI and machine learning tools"/>
+</div>
 
 - Generative AI and LLM applications
-- AI agent concepts and tool calling
+- AI-powered application workflows
+- AI agent concepts and tool orchestration
 - AI API integration
-- Python application development
+- Output evaluation and validation
 
-### BACKEND ENGINEERING
+### Databases
 
-- RESTful API design
-- Spring Boot and Django
-- FastAPI application development
-- Microservices fundamentals
-- Authentication and data handling
+<div align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase&theme=dark" alt="Database technologies"/>
+</div>
+
+- SQL and relational data modeling
+- PostgreSQL and MySQL
+- MongoDB and Firebase
+- Redis fundamentals
+- CRUD operations and database integration
+
+### Cloud, DevOps and developer tools
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,linux,vscode&theme=dark" alt="Cloud and developer tools"/>
+</div>
+
+- Git and GitHub workflows
+- Docker and containerization
+- Linux and command-line tools
+- CI/CD fundamentals
+- Environment-based configuration
+- Cloud deployment fundamentals
+
+### Software quality and engineering practices
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Testing & Reliability**
+
+- Unit and regression testing
+- Pytest and API testing
+- Debugging and root-cause analysis
+- Input validation
+- Error handling
+- Reproducible issue investigation
 
 </td>
 <td width="50%" valign="top">
 
-### DATA & SOFTWARE QUALITY
+**Engineering Fundamentals**
 
-- SQL and relational databases
-- MongoDB and Redis fundamentals
-- Unit and regression testing
-- Debugging and root-cause analysis
-- API validation
-
-### ENGINEERING PRACTICES
-
-- Git and GitHub workflows
-- CI/CD fundamentals
-- Linux and command-line tools
 - Data structures and algorithms
-- Agile development
+- Object-oriented programming
+- Software development lifecycle
+- Code readability and maintainability
+- Agile development fundamentals
+- Technical documentation
 
 </td>
 </tr>
@@ -217,53 +217,51 @@ A web application that generates personalised trip itineraries using AI and a re
 
 ---
 
-## 04 / GITHUB ACTIVITY
+## 04 — GITHUB INSIGHTS
 
 <div align="center">
 
-<a href="https://github.com/akankshad1712">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akankshad1712&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B9A7FF&text_color=E6E8F0&icon_color=7C8CFF&rank_icon=github" alt="GitHub statistics"/>
-</a>
+<a href="https://github.com/akankshad1712"><img height="170" src="https://github-readme-stats.vercel.app/api?username=akankshad1712&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B9A7FF&text_color=E6E8F0&icon_color=7C8CFF&rank_icon=github" alt="GitHub statistics"/></a>
 
-<a href="https://github.com/akankshad1712">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshad1712&layout=compact&hide_border=true&bg_color=0D1117&title_color=B9A7FF&text_color=E6E8F0&langs_count=8" alt="Most used programming languages"/>
-</a>
+<a href="https://github.com/akankshad1712"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshad1712&layout=compact&hide_border=true&bg_color=0D1117&title_color=B9A7FF&text_color=E6E8F0&langs_count=8" alt="Most-used programming languages"/></a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=akankshad1712&hide_border=true&background=0D1117&ring=9A8CFF&fire=FFB86B&currStreakLabel=B9A7FF&sideLabels=E6E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B93A7" alt="GitHub contribution streak"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=akankshad1712&bg_color=0D1117&color=C4B5FD&line=7C8CFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity"/>
 
 <br/><br/>
 
-<sub>Statistics are provided by external services and may occasionally be unavailable or delayed.</sub>
+<img src="https://komarev.com/ghpvc/?username=akankshad1712&style=flat-square&color=8B7CFF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
+<sub>GitHub statistics are generated by external services and may occasionally be unavailable or delayed.</sub>
+
 ---
 
-## 05 / WHAT I VALUE
+## 05 — ENGINEERING PRINCIPLES
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
 
-### Clean Code
+### Precision
 
-Readable, maintainable implementations with clear responsibilities.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### Reliable Systems
-
-Testing, debugging, and validating software behaviour.
+Readable code, clear responsibilities, and thoughtful implementation.
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### Continuous Learning
+### Reliability
 
-Exploring new tools, improving fundamentals, and learning by building.
+Testing, debugging, validation, and evidence-based problem-solving.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### Growth
+
+Practical projects, continuous learning, and stronger engineering fundamentals.
 
 </td>
 </tr>
@@ -271,30 +269,22 @@ Exploring new tools, improving fundamentals, and learning by building.
 
 ---
 
-## 06 / CONNECT
+## 06 — LET'S CONNECT
 
 <div align="center">
 
 ### Let's build something meaningful.
 
-Open to exploring opportunities in **Software Engineering, Backend Development, and AI Engineering**.
+Interested in opportunities in **Software Engineering, Backend Development, Java Development, Python Development, and AI Engineering**.
 
-<br/>
-
-<a href="https://github.com/akankshad1712">
-<img src="https://img.shields.io/badge/Explore%20Projects-GitHub-171A2B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore projects on GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/akanksha-deshmukh-26210b244/">
-<img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="Connect on LinkedIn"/>
-</a>
-<a href="mailto:akankshadeshmukh308@gmail.com">
-<img src="https://img.shields.io/badge/Contact-Email-302653?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Contact by email"/>
-</a>
+<a href="https://github.com/akankshad1712"><img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-GitHub-171A2B?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/></a>
+<a href="https://www.linkedin.com/in/akanksha-deshmukh-26210b244/"><img src="https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+<a href="mailto:akankshadeshmukh308@gmail.com"><img src="https://img.shields.io/badge/CONTACT-Email-6C54A3?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/></a>
 
 <br/><br/>
 
-*Build thoughtfully. Test rigorously. Keep learning.*
+*Build with intent. Test with evidence. Improve continuously.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:33205B,50:171A35,100:080B16&height=90&section=footer" alt="Dark gradient footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:174A75,50:29204A,100:080B16&height=90&section=footer" alt="Premium navy and violet footer"/>
 
 </div>
