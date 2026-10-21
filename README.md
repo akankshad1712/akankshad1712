@@ -14,10 +14,10 @@
   <img src="https://img.shields.io/badge/GitHub-akankshad1712-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=flat-square&logo=linkedin&logoColor=9BAFFF" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-akanksha-deshmukh-26210b244-111827?style=flat-square&logo=linkedin&logoColor=9BAFFF" alt="LinkedIn"/>
 </a>
 <a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-111827?style=flat-square&logo=gmail&logoColor=FF9B9B" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-akankshadeshmukh308@gmail.com-111827?style=flat-square&logo=gmail&logoColor=FF9B9B" alt="Email"/>
 </a>
 <img src="https://img.shields.io/badge/Location-India-111827?style=flat-square&logo=googlemaps&logoColor=9EE7C1" alt="India"/>
 
@@ -134,7 +134,7 @@ An AI-powered trip-planning application designed to help users generate personal
 </tr>
 </table>
 
-> **Project note:** Keep a project listed only if its repository exists and the description accurately reflects your implementation. Replace any link that does not match your actual repository.
+
 
 ---
 
