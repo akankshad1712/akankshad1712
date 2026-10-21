@@ -64,14 +64,7 @@ I am looking to contribute to engineering teams where I can solve meaningful pro
 </tr>
 </table>
 
-### EDUCATION
 
-- **B.Tech — Computer Engineering**  
-  G H Raisoni College of Engineering and Management, Pune · 2021–2025
-- **MBA — General Management**  
-  IGNOU · Pursuing
-
----
 
 ## 02 / FEATURED PROJECTS
 
