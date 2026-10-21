@@ -1,65 +1,72 @@
 
-<!-- =========================================================
-     AKANKSHA DESHMUKH | PREMIUM GITHUB PROFILE
-     Figma-inspired • AI Engineering • Modern • Recruiter-friendly
-========================================================== -->
+<!--
+AKANKSHA DESHMUKH | PREMIUM DEVELOPER PORTFOLIO
+Dark editorial aesthetic • AI engineering • Backend development
+-->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080B16,45:171A35,100:33205B&height=210&section=header&text=AKANKSHA%20DESHMUKH&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%7C%20BACKEND%20SYSTEMS&descSize=13&descAlignY=64&descColor=C9C5FF" alt="Akanksha Deshmukh — Software Engineering and AI"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080B16,45:171A35,100:392568&height=220&section=header&text=AKANKSHA%20DESHMUKH&fontSize=40&fontColor=FFFFFF&fontAlignY=39&desc=SOFTWARE%20ENGINEERING%20%2F%20ARTIFICIAL%20INTELLIGENCE%20%2F%20BACKEND&descSize=12&descAlignY=61&descColor=D0C7FF" alt="Akanksha Deshmukh — Software Engineering, AI and Backend"/>
 
 <br/>
 
 <a href="https://github.com/akankshad1712">
-  <img src="https://img.shields.io/badge/GitHub-akankshad1712-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-171A2B?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub profile"/>
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-akanksha-deshmukh-26210b244-111827?style=flat-square&logo=linkedin&logoColor=9BAFFF" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/akanksha-deshmukh-26210b244/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-171A2B?style=flat-square&logo=linkedin&logoColor=9BAFFF" alt="LinkedIn profile"/>
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-akankshadeshmukh308@gmail.com-111827?style=flat-square&logo=gmail&logoColor=FF9B9B" alt="Email"/>
+<a href="mailto:akankshadeshmukh308@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20touch-171A2B?style=flat-square&logo=gmail&logoColor=FF9B9B" alt="Contact by email"/>
 </a>
-<img src="https://img.shields.io/badge/Location-India-111827?style=flat-square&logo=googlemaps&logoColor=9EE7C1" alt="India"/>
+<img src="https://img.shields.io/badge/Location-India-171A2B?style=flat-square&logo=googlemaps&logoColor=9EE7C1" alt="Based in India"/>
 
 <br/><br/>
 
 ### Engineering reliable software. Exploring intelligent systems. Building with purpose.
 
-*Software Engineer focused on backend development, Generative AI, AI agents, and practical software engineering.*
+*Software Engineer interested in AI-powered applications, backend systems, and practical engineering solutions.*
 
 <br/>
 
-[**Explore Projects**](#-selected-projects) · [**Technical Stack**](#-technology-stack) · [**Connect**](#-lets-connect)
+<a href="#projects">PROJECTS</a> &nbsp;·&nbsp;
+<a href="#technology">TECHNOLOGY</a> &nbsp;·&nbsp;
+<a href="#insights">GITHUB INSIGHTS</a> &nbsp;·&nbsp;
+<a href="#contact">CONTACT</a>
 
 </div>
 
 ---
 
+<a id="profile"></a>
+
 ## 01 / ENGINEERING PROFILE
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="64%" valign="top">
 
 ### Beyond writing code.
 
-I enjoy turning complex problems into **practical, reliable, and maintainable software**.
+I enjoy transforming complex problems into **practical, reliable, and maintainable software**.
 
-My interests span backend engineering, API development, intelligent applications, software quality, and AI-powered workflows. I value clean implementation, thoughtful architecture, measurable testing, and continuous learning.
+My interests span backend engineering, API development, Generative AI, intelligent applications, software quality, and AI-assisted workflows.
 
-I am particularly interested in engineering teams where I can contribute to real products, learn from experienced developers, and grow through challenging technical work.
+I value clean implementation, thoughtful problem-solving, meaningful tests, and continuous improvement. I aim to build software that is useful, understandable, and dependable—not just code that works once.
+
+I am interested in opportunities where I can contribute to real products, collaborate with engineering teams, and grow through challenging technical work.
 
 </td>
-<td width="38%" valign="top">
+<td width="36%" valign="top">
 
 ### CORE FOCUS
 
-- Artificial Intelligence & LLM applications
+- AI & LLM applications
 - Backend & API engineering
 - Agentic AI workflows
-- Software testing & reliability
+- Software quality & reliability
 - Databases & system fundamentals
-- Open-source development
+- Open-source collaboration
 
 </td>
 </tr>
@@ -67,11 +74,13 @@ I am particularly interested in engineering teams where I can contribute to real
 
 ---
 
+<a id="projects"></a>
+
 ## 02 / SELECTED PROJECTS
 
 <div align="center">
 
-### A curated selection of engineering work
+*Selected work across intelligent applications, backend systems, and full-stack development.*
 
 </div>
 
@@ -83,7 +92,7 @@ I am particularly interested in engineering teams where I can contribute to real
 
 **Agentic Incident Investigation**
 
-An AI-assisted incident investigation application designed to support evidence-based troubleshooting and approval-controlled recovery simulations.
+An AI-assisted incident investigation project focused on evidence-based troubleshooting and approval-controlled recovery simulations.
 
 `Python` `FastAPI` `AI Agents` `Docker` `Pytest`
 
@@ -96,11 +105,11 @@ An AI-assisted incident investigation application designed to support evidence-b
 
 **Full-Stack Commerce Platform**
 
-A premium commerce platform concept combining a modern web experience with backend services, authentication, and relational data.
+A premium commerce platform project exploring a modern web experience, backend services, authentication, and relational data.
 
 `Next.js` `React` `Java` `Spring Boot` `PostgreSQL`
 
-[**Explore GitHub ↗**](https://github.com/akankshad1712)
+[**Browse My Repositories ↗**](https://github.com/akankshad1712)
 
 </td>
 </tr>
@@ -111,11 +120,11 @@ A premium commerce platform concept combining a modern web experience with backe
 
 **AI-Powered Music Recommendation**
 
-A music recommendation application exploring Python backend development, REST APIs, database-backed functionality, and music-service integration.
+A music application exploring Python backend development, REST APIs, database-backed functionality, and music-service integration.
 
 `Python` `Django` `REST APIs` `Database Design`
 
-[**Explore GitHub ↗**](https://github.com/akankshad1712/AIONIC-MusicApp)
+[**View Repository ↗**](https://github.com/akankshad1712/AIONIC-MusicApp)
 
 </td>
 <td width="50%" valign="top">
@@ -124,19 +133,19 @@ A music recommendation application exploring Python backend development, REST AP
 
 **Intelligent Travel Planning**
 
-An AI-powered trip-planning application designed to help users generate personalised itineraries through a responsive web experience.
+An AI-powered trip-planning application designed to generate personalised itineraries through a responsive web experience.
 
 `React` `AI Integration` `Firebase` `Web Development`
 
-[**Explore GitHub ↗**](https://github.com/akankshad1712/ai-trip-planner-react)
+[**View Repository ↗**](https://github.com/akankshad1712/ai-trip-planner-react)
 
 </td>
 </tr>
 </table>
 
-
-
 ---
+
+<a id="technology"></a>
 
 ## 03 / TECHNOLOGY STACK
 
@@ -146,7 +155,7 @@ An AI-powered trip-planning application designed to help users generate personal
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,go,js,ts&theme=dark" alt="Java, Python, C++, C, Go, JavaScript and TypeScript"/>
 
-### BACKEND & APPLICATION DEVELOPMENT
+### BACKEND & WEB
 
 <img src="https://skillicons.dev/icons?i=spring,django,fastapi,react,nextjs&theme=dark" alt="Spring, Django, FastAPI, React and Next.js"/>
 
@@ -189,12 +198,14 @@ An AI-powered trip-planning application designed to help users generate personal
 
 ---
 
+<a id="insights"></a>
+
 ## 04 / GITHUB INSIGHTS
 
 <div align="center">
 
 <a href="https://github.com/akankshad1712">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akankshad1712&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9B8FF&text_color=D7DEEA&icon_color=8B9DFF&rank_icon=github" alt="GitHub contribution statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akankshad1712&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9B8FF&text_color=D7DEEA&icon_color=9A8CFF&rank_icon=github" alt="GitHub statistics"/>
 </a>
 <a href="https://github.com/akankshad1712">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshad1712&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9B8FF&text_color=D7DEEA" alt="Most used programming languages"/>
@@ -206,11 +217,13 @@ An AI-powered trip-planning application designed to help users generate personal
 
 <br/>
 
-<sub>Statistics are generated from GitHub activity and may take time to update.</sub>
+<sub>Statistics are provided by external services and may be temporarily unavailable or delayed.</sub>
 
 </div>
 
 ---
+
+<a id="contact"></a>
 
 ## 05 / LET'S CONNECT
 
@@ -223,19 +236,22 @@ Open to exploring opportunities in **Software Engineering, Backend Development, 
 <br/>
 
 <a href="https://github.com/akankshad1712">
-  <img src="https://img.shields.io/badge/Explore%20My%20Work-GitHub-171A2B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore my GitHub"/>
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-GitHub-24213A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore GitHub"/>
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/Connect-LinkedIn-171A2B?style=for-the-badge&logo=linkedin&logoColor=9BAFFF" alt="Connect on LinkedIn"/>
+<a href="https://www.linkedin.com/in/akanksha-deshmukh-26210b244/">
+  <img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-24213A?style=for-the-badge&logo=linkedin&logoColor=9BAFFF" alt="Connect on LinkedIn"/>
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Contact-Email-171A2B?style=for-the-badge&logo=gmail&logoColor=FF9B9B" alt="Contact by email"/>
+
+<br/><br/>
+
+<a href="mailto:akankshadeshmukh308@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Akanksha%20Deshmukh-24213A?style=for-the-badge&logo=gmail&logoColor=FF9B9B" alt="Email Akanksha"/>
 </a>
 
 <br/><br/>
 
 *Build thoughtfully. Test rigorously. Keep learning.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:33205B,50:171A35,100:080B16&height=85&section=footer" alt="Decorative dark gradient footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:392568,50:171A35,100:080B16&height=85&section=footer" alt="Dark purple gradient footer"/>
 
 </div>
