@@ -70,7 +70,7 @@ I am looking to contribute to engineering teams where I can solve meaningful pro
 
 <div align="center">
 
-*Selected projects demonstrating application development, backend engineering, and AI exploration.*
+
 
 </div>
 
