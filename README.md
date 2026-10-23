@@ -303,12 +303,16 @@ Containerization · Environment configuration · CI workflows · Command-line to
 
 <br/>
 
-<a href="https://streak-stats.demolab.com/?user=akankshad1712">
-  <img
-    src="https://streak-stats.demolab.com/?user=akankshad1712&theme=midnight-purple&hide_border=true&background=0D0B16&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E4E0F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF"
-    alt="GitHub contribution streak"
-  />
-</a>
+
+<p align="center">
+  <a href="https://streak-stats.demolab.com/?user=akankshad1712">
+    <img
+      src="https://streak-stats.demolab.com/?user=akankshad1712&theme=midnight-purple&hide_border=true&background=0D0B16&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E4E0F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF"
+      alt="Akanksha's GitHub Contribution Streak"
+    />
+  </a>
+</p>
+
 
 </div>
 
